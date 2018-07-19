@@ -1,5 +1,6 @@
 {
   "name": "mis_tareas",
   "integrations": {},
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "pro_id": "fa59de4d"
 }
